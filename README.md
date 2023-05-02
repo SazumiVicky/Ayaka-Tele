@@ -38,3 +38,8 @@ npm install
 > viki.js
 > viki.text
 ```
+<p><b>5.</b> Lalu ubah token nya menjadi Token bot yang Anda peroleh dari <b>@BotFather</b> tadi:
+  
+```
+TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
+```
