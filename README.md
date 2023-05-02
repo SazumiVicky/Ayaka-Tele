@@ -64,3 +64,7 @@ helloAyakaHandler(bot);
 ```
 $ node viki
 ```
+
+<b>Contributor:</b>
+
+- Sazumi Viki `Instagram <https://instagram.com/moe.sazumiviki>`_
