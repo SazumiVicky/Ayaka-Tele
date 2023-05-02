@@ -23,7 +23,7 @@ $ npm install
 ```
 <p><b>5.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
 
-```
+```yaml
 > data
 > image
 > .env
