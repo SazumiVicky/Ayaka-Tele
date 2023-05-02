@@ -54,7 +54,7 @@ TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
 > const { helloAyakaHandler } = require('./data/helloayaka');
 helloAyakaHandler(bot);
 ```
-<p><b>8.</b> Data yang terdapat pada <code>database.json</code> adalah data yang di simpan dari verifikasi data Anda pada bot, ketika anda mengirimkan perintah </verifikasi</code>, maka bot akan menyimpan data Anda pada <code>database.json</code>
+<p><b>8.</b> Data yang terdapat pada <code>database.json</code> adalah data yang di simpan dari verifikasi data Anda pada bot, ketika anda mengirimkan perintah <code>/verifikasi</code>, maka bot akan menyimpan data Anda pada <code>database.json</code>
 
 ```
 {"1626893657":"viki-1626893657-1682415085687-360","[object Object]":1626893657,"5941228478":"viki-5941228478-1682328941731-180"}
