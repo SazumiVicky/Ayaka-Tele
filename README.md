@@ -1,11 +1,11 @@
 # Cara Menggunakan Ayaka Tele
 
 <p><b>1.</b> Buka aplikasi Telegram dan cari akun @BotFather. Ini adalah bot resmi Telegram yang akan membantu Anda membuat bot baru.</p>
-----
+##
 <p><b>2.</b> Mulai obrolan dengan @BotFather dan ketik perintah /newbot. BotFather akan meminta Anda untuk memberikan nama untuk bot Anda. Setelah itu, BotFather akan memberikan Anda token akses yang unik untuk bot Anda. Simpan token ini karena Anda akan menggunakannya nanti.</p>
-----
+##
 <p> <b>3.</b> Install script yang telah saya sediakan di atas</p>
-----
+##
 <p><b>4.</b> Setelah menginstall script nya, pastikan Anda telah menginstall module nya, agar script bisa berjalan, untuk menginstall module nya, masukan perintah berikut ke terminal / cmd Anda.</p>
 
 ```
