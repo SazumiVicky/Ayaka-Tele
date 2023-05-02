@@ -81,7 +81,7 @@ $ node viki
 > Source Code - /source
 > Ayaka Owner - /owner
 > Proxy Tools - /proxy
-> Simi Chat - simi
+> Simi Chat - /simi
 > Kata Bijak - /katabijak
 > Robo Guru - /roboguru
 > Wikipedia Search - /wiki
