@@ -59,3 +59,8 @@ helloAyakaHandler(bot);
 ```
 {"1626893657":"viki-1626893657-1682415085687-360","[object Object]":1626893657,"5941228478":"viki-5941228478-1682328941731-180"}
 ```
+<p></b>9.</b> Dan jalankan bot Anda dengam memasukan perintah:</p>
+
+```
+node viki
+```
