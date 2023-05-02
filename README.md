@@ -13,7 +13,7 @@ npm install
 ```
 <p><b>4.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
 
-```
+
 > data
 > image
 > .env
@@ -27,4 +27,4 @@ npm install
 > update.MD
 > viki.js
 > viki.text
-```
+
