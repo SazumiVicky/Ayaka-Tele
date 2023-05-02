@@ -73,8 +73,8 @@ helloAyakaHandler(bot);
 $ node viki
 ```
 <h5>Daftar menu yang tersedia<h5>
+  
 ```
-<h5>Daftar menu yang tersedia<h5>
 > Verification - /verifikasi
 > Status Bot - /os
 > ChatGPT - /ai
@@ -128,6 +128,7 @@ $ node viki
 > Spam Call - /spamcall
 > Lirik Lagu - /lirik
 > $ - Owner Only - /advanced
+  
 ```
 
 <b>Contributor:</b>
