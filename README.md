@@ -21,7 +21,7 @@ git clone https://github.com/SazumiVicky/Ayaka-Tele
 ```
 npm install
 ```
-<p><b>4.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
+<p><b>5.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
 
 ```
 > data
@@ -38,13 +38,13 @@ npm install
 > viki.js
 > viki.text
 ```
-<p><b>5.</b> Lalu ubah token nya menjadi Token bot yang Anda peroleh dari <b>@BotFather</b> tadi:
+<p><b>6.</b> Lalu ubah token nya menjadi Token bot yang Anda peroleh dari <b>@BotFather</b> tadi:
   
 ```
 TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
 ```
   
-<p><b>5.</b> Pada kode yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
+<p><b>7.</b> Pada kode yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
   
 ```
 > require('./data/bpurba');
@@ -54,7 +54,7 @@ TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
 > const { helloAyakaHandler } = require('./data/helloayaka');
 helloAyakaHandler(bot);
 ```
-<p><b>5.</b> Data yang terdapat pada <code>database.json</code> adalah data yang di simpan dari verifikasi data Anda pada bot, ketika anda mengirimkan perintah </verifikasi</code>, maka bot akan menyimpan data Anda pada <code>database.json</code>
+<p><b>8.</b> Data yang terdapat pada <code>database.json</code> adalah data yang di simpan dari verifikasi data Anda pada bot, ketika anda mengirimkan perintah </verifikasi</code>, maka bot akan menyimpan data Anda pada <code>database.json</code>
 
 ```
 {"1626893657":"viki-1626893657-1682415085687-360","[object Object]":1626893657,"5941228478":"viki-5941228478-1682328941731-180"}
