@@ -72,9 +72,67 @@ helloAyakaHandler(bot);
 ```
 $ node viki
 ```
+<h5>Daftar menu yang tersedia<h5>
+ 
+<h5>Daftar menu yang tersedia<h5>
+> Verification - /verifikasi
+> Status Bot - /os
+> ChatGPT - /ai
+> Source Code - /source
+> Ayaka Owner - /owner
+> Proxy Tools - /proxy
+> Simi Chat - simi
+> Kata Bijak - /katabijak
+> Robo Guru - /roboguru
+> Wikipedia Search - /wiki
+> Anime Quote - /quotesanime
+> Caklontong - /caklontong
+> Password Generator - /password
+> Refresh Ayaka - /refresh
+> Restart Ayaka - /restart
+> Cerita Hororr - /ceritahororr
+> Screnshoot Web - /ssweb
+> DetikNews - /detiknews
+> Bahasa Purba - /bpurba
+> Nama Random - /namarandom
+> Pantun - /pantun
+> Google Image - /gimage
+> Pixiv Search - /pixiv
+> Info Gempa - /infogempa
+> Info Cuaca - infocuaca
+> Arti Nama - /artinama
+> Asupan - /asupan
+> Doujin Search - /doujinsearch
+> Blackpink - /blackpink
+> Audio Ayat - /ayat
+> Nekopoi Search - /nekopoi
+> Donasi - /donasi
+> Peraturan Ayaka - /rules
+> Random People - /people
+> Teks To Morse - /morse
+> String To Hex - /stringtohex
+> Hex To String - /hextostring
+> Instagram Stalker - /ig
+> Run Time - /runtime
+> Pinterest Search - /pin
+> Corona Info - /corona
+> Superhero Detail - /superhero
+> Cek Api Key - /cekapikey
+> Kamus Besar Bahasa Indonesia - /kbbi
+> Doujin Latest - /doujindesu
+> Sticker Rgb - /attp
+> TikTok Audio Download - /ttmp3
+> TikTok Video Download - /ttmp4
+> TikTok Download Profile - /ttprofile
+> Anime Story - /storynime
+> Spam Call - /spamcall
+> Lirik Lagu - /lirik
+> $ - Owner Only - /advanced 
+
 
 <b>Contributor:</b>
 
 - Viki
 - Kamisato Ayaka
 - Sazumi Backup
+
