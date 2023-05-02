@@ -47,13 +47,10 @@ TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
 <p><b>5.</b> Pada kode yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
   
 ```
-//  require('./data/bpurba');
+> require('./data/bpurba');
   
-//  const { showMenu } = require('./data/menu');
+> const { showMenu } = require('./data/menu');
   
-/*
-//helloayaka
-const { helloAyakaHandler } = require('./data/helloayaka');
+> const { helloAyakaHandler } = require('./data/helloayaka');
 helloAyakaHandler(bot);
-*/
 ```
