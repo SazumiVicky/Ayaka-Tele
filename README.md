@@ -4,7 +4,7 @@
 
 <p>Ayaka Tele adalah sebuah bot Telegram yang ditulis dengan menggunakan bahasa pemrograman JavaScript, Bot ini memanfaatkan library node-telegram-bot-api untuk berinteraksi dengan API Telegram.
 
-Ayaka Tele dapat memproses berbagai perintah dan memberikan respons kepada pengguna Telegram, seperti mengirim pesan, membalas pesan, Bot ini juga dilengkapi dengan fitur-fitur yang berguna, seperti menampilkan informasi tentang COVID-19, mendownload audio, video, profile dari tik tok, dan masih banyak lagi.
+Ayaka Tele dapat memproses berbagai perintah dan memberikan respons kepada pengguna Telegram, seperti mengirim pesan, membalas pesan, Bot ini juga dilengkapi dengan fitur-fitur yang berguna, seperti menampilkan informasi tentang COVID-19, ChatGPT, Mendownload Audio, Video, Profile dari Tik Tok, dan masih banyak lagi.
 
 Seluruh kode sumber "Ayaka Tele" tersedia di repositori GitHub dan dapat diakses secara gratis. Selain itu, repositori ini juga menyediakan dokumentasi dan panduan penggunaan bot ini. Anda juga dapat berkontribusi ke repositori ini dengan menambahkan fitur baru atau memperbaiki masalah yang ada di dalamnya.</p>
 
