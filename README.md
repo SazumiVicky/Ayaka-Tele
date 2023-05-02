@@ -11,7 +11,7 @@
 <p> <b>3.</b> Clone script yang telah saya sediakan di atas</p>
 
 ```
-git clone https://github.com/SazumiVicky/Ayaka-Tele
+$ git clone https://github.com/SazumiVicky/Ayaka-Tele
 ```
 
 
@@ -19,7 +19,7 @@ git clone https://github.com/SazumiVicky/Ayaka-Tele
 <p><b>4.</b> Setelah menginstall script nya, pastikan Anda telah menginstall module nya, agar script bisa berjalan, untuk menginstall module nya, masukan perintah berikut ke terminal / cmd Anda.</p>
 
 ```
-npm install
+$ npm install
 ```
 <p><b>5.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
 
@@ -59,8 +59,8 @@ helloAyakaHandler(bot);
 ```
 {"1626893657":"viki-1626893657-1682415085687-360","[object Object]":1626893657,"5941228478":"viki-5941228478-1682328941731-180"}
 ```
-<p></b>9.</b> Dan jalankan bot Anda dengam memasukan perintah:</p>
+<p></b>9.</b> Dan jalankan bot Anda dengan memasukan perintah:</p>
 
 ```
-node viki
+$ node viki
 ```
