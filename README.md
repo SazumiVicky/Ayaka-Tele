@@ -8,7 +8,11 @@
 
 ##
 
-<p> <b>3.</b> Install script yang telah saya sediakan di atas</p>
+<p> <b>3.</b> Clone script yang telah saya sediakan di atas</p>
+
+```
+git clone https://github.com/SazumiVicky/Ayaka-Tele
+```
 
 ##
 
