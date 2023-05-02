@@ -1,4 +1,3 @@
-// DannTeam
 const axios = require('axios');
 
 function pinHandler(bot, msg, match) {
