@@ -67,4 +67,6 @@ $ node viki
 
 <b>Contributor:</b>
 
-- 🇺🇸 `@aiogram <https://t.me/aiogram>`_
+- Viki
+- Kamisato Ayaka
+- Sazumi Backup
