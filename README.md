@@ -67,4 +67,4 @@ $ node viki
 
 <b>Contributor:</b>
 
-- Sazumi Viki `Instagram <https://instagram.com/moe.sazumiviki>`_
+- 🇺🇸 `@aiogram <https://t.me/aiogram>`_
