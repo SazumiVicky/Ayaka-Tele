@@ -1,4 +1,4 @@
-# Cara Menggunakan Ayaka Tele
+<h2> Cara Menggunakan Ayaka Tele</h2>
 
 <p><b>1.</b> Buka aplikasi Telegram dan cari akun <b>@BotFather</b>. Ini adalah bot resmi Telegram yang akan membantu Anda membuat bot baru.</p>
 
