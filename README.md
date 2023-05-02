@@ -11,3 +11,20 @@
 ```
 npm install
 ```
+<p><b>4.</b> Lalu pastikan juga, bahwa Anda sudah memasukan token bot Anda pada file <code>.env</code> pada direktori berikut:</p>
+
+```
+> data
+> image
+> .env
+> README.md
+> ayakaverif.json.json
+> bot.pid
+> database.json
+> install.sh
+> package-lock.json
+> package.json
+> update.MD
+> viki.js
+> viki.text
+```
