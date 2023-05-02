@@ -44,7 +44,7 @@ npm install
 TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
 ```
   
-<p><b>5.</b> Pada yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
+<p><b>5.</b> Pada kode yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
   
 ```
 //  require('./data/bpurba');
