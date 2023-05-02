@@ -4,4 +4,4 @@
 
 <p>2. Mulai obrolan dengan @BotFather dan ketik perintah /newbot. BotFather akan meminta Anda untuk memberikan nama untuk bot Anda. Setelah itu, BotFather akan memberikan Anda token akses yang unik untuk bot Anda. Simpan token ini karena Anda akan menggunakannya nanti.</p>
 
-<p>3. Install script yang telah saya sediakan di atas</p>
+<p> <b>3.</b> Install script yang telah saya sediakan di atas</p>
