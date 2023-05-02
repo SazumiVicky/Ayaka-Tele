@@ -1,0 +1,23 @@
+const axios = require('axios');
+
+module.exports = (bot) => {
+  bot.onText(/\/stringtohex (.+)/, async (msg, match) => {
+    const text = match[1];
+    try {
+      const response = await axios.get(`https://api.lolhuman.xyz/api/convert/strtohex?apikey=dannlaina&text=${encodeURIComponent(text)}`);
+      const hexString = response.data.result;
+      const message = `Berikut adalah string heksadesimal untuk teks "${text}":\n\n${hexString}`;
+      bot.sendMessage(msg.chat.id, message);
+    } catch (error) {
+      console.error(error);
+      bot.sendMessage(msg.chat.id, 'Terjadi kesalahan saat memproses permintaan Anda.');
+    }
+  });
+
+  bot.onText(/\/stringtohex/, (msg) => {
+    const message = msg.text.toLowerCase();
+    if (message === '/stringtohex') {
+      bot.sendMessage(msg.chat.id, 'Masukkan teks yang ingin kamu ubah ke string heksadesimal, contoh: /stringtohex ayaka always choose viki');
+    }
+  });
+};
