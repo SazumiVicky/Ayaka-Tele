@@ -46,7 +46,7 @@ TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
   
 <p><b>7.</b> Pada kode yang telah saya beri comment, Adalah kode yang belum saya sempurnakan, contoh:
   
-```
+```javascript
 > require('./data/bpurba');
   
 > const { showMenu } = require('./data/menu');
