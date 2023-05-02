@@ -72,7 +72,7 @@ helloAyakaHandler(bot);
 ```
 $ node viki
 ```
-<h5>Daftar menu yang tersedia<h5>
+<h5>Daftar menu yang tersedia</h5>
   
 ```
 > Verification - /verifikasi
